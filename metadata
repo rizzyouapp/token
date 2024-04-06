@@ -1,0 +1,11 @@
+{
+  "name": "Rizz You",
+  "symbol": "RIZZYOU",
+  "description": "The official token of rizzyou.com – a new platform for meeting people online.",
+  "image": "https://raw.githubusercontent.com/rizzyouapp/token/main/logo.png",
+  "extensions": {
+    "website": "https://rizzyou.com",
+    "twitter": "https://twitter.com/rizzyouapp",
+    "telegram": "https://t.me/+RtrlsX2g-LEyNWQ0"
+  }
+}
